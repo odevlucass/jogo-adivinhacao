@@ -13,7 +13,7 @@ Este repositório abriga um projetinho leve e 100% feito com as tecnologias bás
 
 ---
 
-## 🚀 Jogue você mesmo! [Acesse o site](https://github.com/odevlucass)
+## 🚀 Jogue você mesmo! [Acesse o site](https://odevlucass.github.io/jogo-adivinhacao/)
 
 ## 🚀 Experimente junto comigo!
 
