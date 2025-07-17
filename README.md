@@ -9,8 +9,6 @@ Este repositório abriga um projetinho leve e 100% feito com as tecnologias bás
 - A cada tentativa, recebe uma dica: "maior" ou "menor".
 - O jogo termina quando você acerta — e aí pode recomeçar!
 
-> 💡 Cada tentativa é registrada e exibida na tela, criando uma mini jornada até o acerto.
-
 ---
 
 ## 🚀 Jogue você mesmo! [Acesse o site](https://odevlucass.github.io/jogo-adivinhacao/)
