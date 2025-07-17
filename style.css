@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+p:first-of-type {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  max-width: 200px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 4px 8px;
+  font-size: 12px;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+p:last-of-type {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+.habilitado {
+  display: inline;
+}
+
+.desabilitado {
+  display: none;
+}
